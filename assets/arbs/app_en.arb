@@ -1,0 +1,34 @@
+{
+    "appName": "Template",
+    "@appName": {
+      "description": "Name of the app"
+    },
+    "goToCountersPage": "GO TO COUNTERS PAGE",
+    "getVersion": "GET VERSION",
+    "counters": "Counters",
+    "updateMessage": "Seems like you are not using the update version of app. You are using {appVersion} and the current version is {remoteVersion}",
+    "@updateMessage": {
+        "description": "Update message if the app is not updated",
+        "placeholders": {
+            "appVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            },
+            "remoteVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            }
+        }
+    },
+    "close": "Close",
+    "licences": "Licences",
+    "helloAgain": "Hello Again!",
+    "signInWelcomeMsg": "Welcome back you've\nbeen missed!",
+    "enterUsername": "Enter Username",
+    "enterPassword": "Enter Password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "orContinueWith": "Or continue with",
+    "notAMember": "Not a member?",
+    "registerNow": "Register Now"
+}

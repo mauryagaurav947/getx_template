@@ -1,0 +1,31 @@
+{
+    "appName": "टेम्पलेट",
+    "goToCountersPage": "काउंटर पेज पर जाएं",
+    "getVersion": "संस्करण प्राप्त करें",
+    "counters": "काउंटर",
+    "updateMessage": "ऐसा लगता है कि आप ऐप के अद्यतन संस्करण का उपयोग नहीं कर रहे हैं। आप {appVersion} का इस्तेमाल कर रहे हैं और मौजूदा वर्शन {remoteVersion} है",
+    "@updateMessage": {
+        "description": "Update message if the app is not updated",
+        "placeholders": {
+            "appVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            },
+            "remoteVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            }
+        }
+    },
+    "close": "बंद",
+    "licences": "लाइसेंस",
+    "helloAgain": "फिर से हैलो!",
+    "signInWelcomeMsg": "आपका फिर से स्वागत है\nआपको याद किया गया है!",
+    "enterUsername": "उपयोगकर्ता नाम दर्ज करें",
+    "enterPassword": "पासवर्ड दर्ज करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "signIn": "साइन इन करें",
+    "orContinueWith": "या जारी रखें",
+    "notAMember": "सदस्य नहीं हैं?",
+    "registerNow": "अभी पंजीकरण करें"
+}

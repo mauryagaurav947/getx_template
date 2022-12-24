@@ -1,0 +1,31 @@
+{
+    "appName": "modelo",
+    "goToCountersPage": "IR A LA PÁGINA DE CONTADORES",
+    "getVersion": "OBTENER VERSIÓN",
+    "counters": "Contadores",
+    "updateMessage": "Parece que no está utilizando la versión actualizada de la aplicación. Está utilizando {appVersion} y la versión actual es {remoteVersion}",
+    "@updateMessage": {
+        "description": "Update message if the app is not updated",
+        "placeholders": {
+            "appVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            },
+            "remoteVersion": {
+                "type": "String",
+                "example": "1.0.0"
+            }
+        }
+    },
+    "close": "cerca",
+    "licences": "Licencias",
+    "helloAgain": "¡Hola de nuevo!",
+    "signInWelcomeMsg": "¡Bienvenido de nuevo, se te ha echado de menos!",
+    "enterUsername": "Introduzca su nombre de usuario",
+    "enterPassword": "Introducir la contraseña",
+    "forgotPassword": "¿Has olvidado tu contraseña?",
+    "signIn": "Registrarse",
+    "orContinueWith": "o continuar con",
+    "notAMember": "¿No es un miembro?",
+    "registerNow": "Regístrate ahora"
+}
